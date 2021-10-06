@@ -15,3 +15,5 @@ I have also discovered that Orlando airport dominated all the airports in the en
 Furthermore, I found out that there was a moderate positive correlation between late aircraft, NAS, weather, carrier delays, and arrival delays. 
 
 ## Key Insights for Presentation
+
+My main focus on the presentation was on the cancellations and the delays of the flights that were related to different factors, such as departure and destination airports, sources of delays and cancellations, times of the year, and carriers.
